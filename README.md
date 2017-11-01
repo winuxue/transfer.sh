@@ -9,6 +9,8 @@ git clone https://github.com/winuxue/transfer.sh.git
 cd transfer.sh
 
 cat transfer.sh >> ~/.bashrc
+
+~/.bashrc
 ```
 ## optional requirements
 - **xclip**: allows copy the generated link to your clipboard.
