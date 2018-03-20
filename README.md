@@ -10,7 +10,7 @@ cd transfer.sh
 
 cat transfer.sh >> ~/.bashrc
 
-~/.bashrc
+. ~/.bashrc
 ```
 ## optional requirements
 - **xclip**: allows copy the generated link to your clipboard.
